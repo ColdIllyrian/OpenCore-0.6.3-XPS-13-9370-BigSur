@@ -1,0 +1,1 @@
+# OpenCore-0.6.3-XPS-13-9370-BigSur
